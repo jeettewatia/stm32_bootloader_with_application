@@ -1,0 +1,22 @@
+# HAL Drivers (auto-generated, not needed)
+Application/Drivers/
+BootLoader/Drivers/
+
+# Build outputs
+Application/Debug/
+BootLoader/Debug/
+
+# Compiled files
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+
+# Mac files
+.DS_Store
+
+# IDE files
+.metadata/
+*.cproject
+*.project
